@@ -24,4 +24,4 @@ An IoT-based automatic pill dispenser that uses an ESP8266, stepper motor, and B
 ## 📂 Files Included
 - pill_dispenser.ino — Main Arduino code
 - Circuit diagram
-- notification screenshots via Email and Blynk
+- notification screenshots via Email,Blynk timeline and Blynk app
